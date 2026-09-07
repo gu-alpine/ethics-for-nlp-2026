@@ -16,7 +16,7 @@ We are pleased to invite submissions to the **Second Workshop on Ethics for Rese
 
 This workshop continues the work initiated by **Ethics4NLP-2024**: [https://gu-clasp.github.io/language-and-perception/events/ethics-for-nlp/](https://gu-clasp.github.io/language-and-perception/events/ethics-for-nlp/)
 
-The workshop is organised by the Gothenburg, Stockholm, Uppsala, and Umeå interest group in ethics for NLP.
+The workshop is organised by the interest group in ethics for NLP (Ethics4NLP).
 
 AI tasks involving the modelling of human language, as well as other decision-making applications, have developed substantially over the last several years. While AI systems trained on large amounts of data have achieved remarkable performance, it remains difficult to directly inspect what such models have learned. Instead, we can only observe their behaviour and performance, which may be biased in one or more ways and may have broader societal and environmental implications.
 
@@ -72,6 +72,8 @@ All deadlines are **11:59 PM UTC−12:00 ("Anywhere on Earth")**. The workshop i
 
 * Simon Dobnik: [https://www.gu.se/en/about/find-staff/simondobnik](https://www.gu.se/en/about/find-staff/simondobnik)
 * Beáta Megyesi: [https://www.su.se/english/profiles/b/beba5639](https://www.su.se/english/profiles/b/beba5639)
+* Hannah Devinney:
+* Maria Irena Szawerna:  
 
 We look forward to receiving your submissions and to continuing the discussion on ethics in research and teaching within NLP and related fields.
 
