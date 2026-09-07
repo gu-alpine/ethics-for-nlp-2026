@@ -32,7 +32,7 @@ Co-located with [The Swedish Language Technology Conference (SLTC)](https://www.
 
 ## Workshop description
 
-This workshop, the second in a series, is a continuation of the workshop with the same name, [Ethics4NLP-2024](https://gu-clasp.github.io/language-and-perception/events/ethics-for-nlp/), organised by the Gothenburg, Stockholm, Uppsala, and Umeå interest group in ethics for NLP.
+This workshop, the second in a series, is a continuation of the workshop with the same name, [Ethics4NLP-2024](https://gu-clasp.github.io/language-and-perception/events/ethics-for-nlp/), organised by the interest group in ethics for NLP, [Ethics4NLP](https://www.gu.se/en/research/ethics-for-nlp-natural-language-processing).
 
 AI tasks involving the modelling of human language, as well as other decision-making applications (such as patient diagnosis identification and driving), have developed substantially over the last several years. In many areas, it has been claimed that AI systems learning from data alone have achieved human-like performance, and sometimes even surpassed it. However, due to the nature of these models, it is very difficult to directly inspect what they have learned. Instead, we can only observe their performance, which may be biased in one or more ways and may have broader societal and environmental implications.
 
@@ -58,7 +58,10 @@ The purpose of the workshop is to further discuss these topics from a research p
 
 ## Contact
 
-[Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik) and [Beáta Megyesi](https://www.su.se/english/profiles/b/beba5639)
+- [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik)
+- [Beáta Megyesi](https://www.su.se/english/profiles/b/beba5639)
+- [Hannah Devinney](https://liu.se/en/employee/hande78)
+- [Maria Irena Szawerna](https://www.gu.se/en/about/find-staff/mariaszawerna)
 
 Join our [mailing list](https://listserv.gu.se/sympa/subscribe/ethics-for-nlp)!
 
