@@ -8,7 +8,6 @@ title: Ethics4NLP-2026
         {% assign basepath = "" %}
 {% endif %}
 
-<hr>
 
 <div>
     <div class="iblock headshot-invited-speaker">
@@ -20,15 +19,19 @@ title: Ethics4NLP-2026
 
 **Bio**  
 <div style="text-align: justify;">
-<a href="https://mariabarrett.github.io">Maria Barrett</a> works as an industrial researcher on multilingual evaluation of large language models. She holds a PhD in NLP from the University of Copenhagen since 2018. Her work examines what it takes to know whether a model works across languages and cultures and she is particularly interested in topics that are hard to measure.
+<p><a href="https://mariabarrett.github.io">Maria Barrett</a> works as an industrial researcher on multilingual evaluation of large language models. She holds a PhD in NLP from the University of Copenhagen since 2018. Her work examines what it takes to know whether a model works across languages and cultures and she is particularly interested in topics that are hard to measure.</p>
 </div>
 
 <b>Talk:</b>
 <div style="text-align: justify;">
-When we evaluate a language model, we are not just taking a measurement, we are making a series of choices. The benchmarks used during the development of models guide the modelling decisions and form the lens through which we see our model. Drawing on practical experience on building multilingual evaluation infrastructure within the team and as part of a larger EU collaboration and on building new evaluation sets, I will walk through the stakes embedded in the decisions that are too often treated as purely technical. 
+<p>When we evaluate a language model, we are not just taking a measurement, we are making a series of choices. The benchmarks used during the development of models guide the modelling decisions and form the lens through which we see our model. Drawing on practical experience on building multilingual evaluation infrastructure within the team and as part of a larger EU collaboration and on building new evaluation sets, I will walk through the stakes embedded in the decisions that are too often treated as purely technical.</p> 
 </div>
 
+<br>
+
 <hr>
+
+<br>
 
 <div>
     <div class="iblock headshot-invited-speaker">
@@ -40,7 +43,7 @@ When we evaluate a language model, we are not just taking a measurement, we are 
 
 **Bio**  
 <div style="text-align: justify;">
-<a href= "https://spraakbanken.gu.se/en/about/staff/elena">Elena Volodina</a> is Professor of Language Technology at the University of Gothenburg, Språkbanken. Her research focuses on NLP for second language learning, learner corpora and research infrastructure, with particular attention to ethical and privacy-related challenges of working with sensitive language data. Her recent work addresses automatic pseudonymization and privacy-preserving processing, aiming to enable responsible access to sensitive textual data for research.
+<p><a href= "https://spraakbanken.gu.se/en/about/staff/elena">Elena Volodina</a> is Professor of Language Technology at the University of Gothenburg, Språkbanken. Her research focuses on NLP for second language learning, learner corpora and research infrastructure, with particular attention to ethical and privacy-related challenges of working with sensitive language data. Her recent work addresses automatic pseudonymization and privacy-preserving processing, aiming to enable responsible access to sensitive textual data for research.</p>
 </div>
 
 <b>Talk:</b>
