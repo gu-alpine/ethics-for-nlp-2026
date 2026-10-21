@@ -30,7 +30,7 @@ The workshop will take place on November 25, 2026.
 **11:15 - 11:30** tbc <br>
  <span style="color:gray">Oluwatosin Adewumi, Luleå University of Technology </span>
 
-**11:30 - 11:45** Teaching Ethics in NLP: Designing a Course for Doctoral Student <br>
+**11:30 - 11:45** Teaching Ethics in NLP: Designing a Course for Doctoral Students <br>
  <span style="color:gray"> Maria Irena Szawerna and Elena Volodina, University of Gothenburg</span>
 
 **11:45 - 12:00** Title <br>
