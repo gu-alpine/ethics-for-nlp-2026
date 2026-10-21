@@ -11,8 +11,6 @@ navigation:
     url: /index.html
   - text: Programme
     url: /schedule.html
-  - text: Accepted papers
-    url: /papers.html
   - text: Keynote speakers
     url: /invited_speakers.html
   - text: Presentation details
@@ -23,3 +21,8 @@ navigation:
     url: /submission_details.html
   - text: Organisation
     url: /organisation.html
+
+<!--
+  - text: Accepted papers
+    url: /papers.html
+-->
