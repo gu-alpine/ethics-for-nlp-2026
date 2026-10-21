@@ -10,26 +10,31 @@ title: Ethis4NLP-2026
 
 ## Workshop schedule
 
-The workshop will take place on November 20, 2026.
-
-**All times are in Central European Daylight Saving Time.**
+The workshop will take place on November 25, 2026.
 
 <hr>
 
-**9:00 - 9:05** Welcome
+**09:00 - 09:10** Introduction
 
-**9:05 - 9:45** <b> Keynote I, Name Surname</b> (keynote chair: Name Surname)
+**09:10 - 09:55** Keynote: Benchmarks are arguments
+  <span style="color:gray">Maria Barrett, Industrial Researcher</span>
 
-**9:45 - 10:25** <b> Oral talks I </b> (session chair: Name Surname)
+**10:00 - 10:45** Keynote: Protecting privacy of research data - a case of pseudonymization
+  <span style="color:gray">Elena Volodina, University of Gothenburg</span>
 
-  * <b> 9:45 - 10:05: Title 1 </b>
-  <span style="color:gray"> Authors </span>
+**10:45 - 11:00** Coffee break
 
-  * <b> 10:05 - 10:25: Title 2 </b>
-  <span style="color:gray"> Authors </span>
+**11:00 - 11:15** Introducing Intersectionality to CS Audiences
+  <span style="color:gray">Hannah Devinney, Linköping University </span>
 
-**10:25 - 11:00** Coffee break
+**11:15 - 11:30** tbc
+ <span style="color:gray">Oluwatosin Adewumi, Luleå University of Technology</a>
 
-**12:55 - 13:00** Closing
+**11:30 - 11:45** Teaching Ethics in NLP: Designing a Course for Doctoral Student
+ Maria Irena Szawerna and Elena Volodina, University of Gothenburg</span>
+
+**11:45 - 12:00** 
+
+**12:00 - 12:30** Wrapping up
 
 <hr>
