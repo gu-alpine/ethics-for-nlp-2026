@@ -8,8 +8,6 @@ title: Ethics4NLP-2026
         {% assign basepath = "" %}
 {% endif %}
 
-<!--
-
 <hr>
 
 <div>
@@ -58,5 +56,3 @@ References:
 - Elena Volodina, Simon Dobnik, Therese Lindström Tiedemann, Ricardo Muñoz Sánchez, Maria Irena Szawerna, Lisa Södergård, Xuan-Son Vu. 2025. [Towards shared standards for pseudonymization of research data](https://www.huminfra.se/resources/humevents/hic-2025_proceedings.pdf "https://www.huminfra.se/resources/humevents/hic-2025_proceedings.pdf"). In Proceedings of the Huminfra Conference (HiC 2025), Stockholm, 12-13 November 2025
 
 </div>
-
--->
