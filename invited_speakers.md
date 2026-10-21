@@ -14,7 +14,7 @@ title: Ethics4NLP-2026
 
 <div>
     <div class="iblock headshot-invited-speaker">
-        <img src="{{basepath}}/pics/maria_barrett.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/maria_barrett.jpg" class="headshot">
         <a href="https://" class="headshotaffiliation">Maria Barrett</a>
         <div class="headshotname">Industrial Researcher</div>
     </div>
@@ -34,7 +34,7 @@ When we evaluate a language model, we are not just taking a measurement, we are 
 
 <div>
     <div class="iblock headshot-invited-speaker">
-        <img src="{{basepath}}/pics/elena_volodina.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/elena_volodina.jpg" class="headshot">
         <a href="https://" class="headshotaffiliation">Elena Volodina</a>
         <div class="headshotname"> University of Gothenburg </div>
     </div>
