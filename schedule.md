@@ -34,9 +34,9 @@ The workshop will take place on November 25, 2026.
 **11:30 - 11:45** Teaching Ethics in NLP: Designing a Course for Doctoral Students <br>
  <span style="color:gray"> Maria Irena Szawerna and Elena Volodina, University of Gothenburg</span>
 
-**11:45 - 12:00** Title <br>
+**11:45 - 12:15** Discussion <br>
   <span style="color:gray"> </span>
 
-**12:00 - 12:30** Wrapping up
+**12:15 - 12:30** Wrapping up
 
 <hr>
