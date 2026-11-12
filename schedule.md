@@ -27,8 +27,9 @@ The workshop will take place on November 25, 2026.
 **11:00 - 11:15** Introducing Intersectionality to CS Audiences <br>
   <span style="color:gray">Hannah Devinney, Linköping University </span>
 
-**11:15 - 11:30** tbc <br>
- <span style="color:gray">Oluwatosin Adewumi, Luleå University of Technology </span>
+**11:15 - 11:30** Teaching Ethics in NLP: The 6 Connected Quadrants <br>
+ <span style="color:gray">Oluwatosin Adewumi, Luleå University of Technology </span> <br>
+ AI ethics is a multidisciplinary approach that guides the development and use of AI in a responsible manner. NLP, being a subfield of AI, makes AI ethics applicable in NLP. The goals of AI ethics include AI operational safety, respect for human rights and risk reduction. We teach "The 6 Connected Quadrants" for ethics in NLP for students to learn about these goals. [paper](https://arxiv.org/pdf/2507.23330)
 
 **11:30 - 11:45** Teaching Ethics in NLP: Designing a Course for Doctoral Students <br>
  <span style="color:gray"> Maria Irena Szawerna and Elena Volodina, University of Gothenburg</span>
