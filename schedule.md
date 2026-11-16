@@ -25,7 +25,10 @@ The workshop will take place on November 25, 2026.
 **10:45 - 11:00** Coffee break
 
 **11:00 - 11:15** Introducing Intersectionality to CS Audiences (chair: Bea) <br>
-  <span style="color:gray">Hannah Devinney, Linköping University </span>
+  <span style="color:gray">Hannah Devinney, Linköping University </span>  <br>
+ Borrowing analytical tools and concepts from other fields such as feminist theory and critical data studies can be extremely useful for both doing and teaching "ethical" NLP. However, these ideas can be difficult to grasp for those primarily trained in other paradigms, and may be pushed back against for example because they seem "political." Based on experience teaching courses aimed at computer scientists, engineers, designers, and other "technical" students at a variety of levels, I will provide some tips and tricks for a friendly and actionable introduction to a core concept in feminist theory: intersectionality.
+
+
 
 **11:15 - 11:30** Teaching Ethics in NLP: The 6 Connected Quadrants (chair: Simon) <br>
  <span style="color:gray">Oluwatosin Adewumi, Luleå University of Technology </span> <br>
