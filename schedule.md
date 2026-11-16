@@ -14,7 +14,7 @@ The workshop will take place on November 25, 2026.
 
 <hr>
 
-**09:00 - 09:10** Introduction (chairs: Bea and Simon)
+**09:00 - 09:10** Introduction (Bea and Simon)
 
 **09:10 - 09:55** Keynote: Benchmarks are arguments (chair: Simon) <br>
   <span style="color:gray">Maria Barrett, Industrial Researcher</span>
