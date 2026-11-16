@@ -32,8 +32,8 @@ The workshop will take place on November 25, 2026.
  AI ethics is a multidisciplinary approach that guides the development and use of AI in a responsible manner. NLP, being a subfield of AI, makes AI ethics applicable in NLP. The goals of AI ethics include AI operational safety, respect for human rights and risk reduction. We teach "The 6 Connected Quadrants" for ethics in NLP for students to learn about these goals. [paper](https://arxiv.org/pdf/2507.23330)
 
 **11:30 - 11:45** Teaching Ethics in NLP: Designing a Course for Doctoral Students <br>
- <span style="color:gray"> Maria Irena Szawerna and Elena Volodina, University of Gothenburg</span>
-We outline a PhD-level course on ethical questions in natural language processing and related fields. The course is primarily aimed at doctoral students in computational linguistics, but should also be possible to adapt to computer science or linguistics students. The main aims of the course are to raise the students’ awareness of practical and methodological aspects of ethics in NLP and to help them integrate these considerations in their own research. The course plan is currently
+ <span style="color:gray"> Maria Irena Szawerna and Elena Volodina, University of Gothenburg</span>  <br>
+ We outline a PhD-level course on ethical questions in natural language processing and related fields. The course is primarily aimed at doctoral students in computational linguistics, but should also be possible to adapt to computer science or linguistics students. The main aims of the course are to raise the students’ awareness of practical and methodological aspects of ethics in NLP and to help them integrate these considerations in their own research. The course plan is currently
 under review and the course is planned to be given later this academic year.
 
 **11:45 - 12:15** Discussion <br>
