@@ -33,6 +33,8 @@ The workshop will take place on November 25, 2026.
 
 **11:30 - 11:45** Teaching Ethics in NLP: Designing a Course for Doctoral Students <br>
  <span style="color:gray"> Maria Irena Szawerna and Elena Volodina, University of Gothenburg</span>
+We outline a PhD-level course on ethical questions in natural language processing and related fields. The course is primarily aimed at doctoral students in computational linguistics, but should also be possible to adapt to computer science or linguistics students. The main aims of the course are to raise the students’ awareness of practical and methodological aspects of ethics in NLP and to help them integrate these considerations in their own research. The course plan is currently
+under review and the course is planned to be given later this academic year.
 
 **11:45 - 12:15** Discussion <br>
   <span style="color:gray"> </span>
