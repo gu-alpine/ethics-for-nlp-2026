@@ -14,6 +14,7 @@ Co-located with [The Swedish Language Technology Conference (SLTC)](https://www.
 
 ## Important information
 
+  - 2026-11-25 [Join us](https://gu-se.zoom.us/j/65169084737) on Zoom today!
   - 2026-07-07 The Ethics4NLP workshop returns at the 2026 Swedish Language Technology Conference ([SLTC-2026](https://www.ltu.se/en/research/research-subjects/machine-learning/the-swedish-language-technology-conference)) as a half-day workshop on 25 November.
 
 {% comment %} 
